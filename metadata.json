@@ -1,0 +1,8 @@
+{
+  "description": "Search Calibre books directly from the GNOME shell overview",
+  "name": "Calibre Search Provider",
+  "shell-version": ["45", "46"],
+  "uuid": "calibre-search@fractalmachinist.github.com",
+  "settings-schema": "org.gnome.shell.extensions.calibre-search",
+  "preferences": "prefs.js"
+}
