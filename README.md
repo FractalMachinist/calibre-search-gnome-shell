@@ -15,7 +15,7 @@ It is a work in progress and requires manual configuration.
     git clone https://github.com/fractalmachinist/calibre-search ~/.local/share/gnome-shell/extensions/calibre-search@fractalmachinist.github.com
     ```
 
-2. For GNOME 45 and newer, restarting the shell with <kbd>Alt</kbd>+<kbd>F2</kbd> and <kbd>r</kbd> is not supported under Wayland. Instead, log out and log back in to reload extensions.
+2. Restarting the shell with <kbd>Alt</kbd>+<kbd>F2</kbd> and <kbd>r</kbd> is not supported under Wayland. Instead, log out and log back in to reload extensions.
 
 3. Enable the Calibre Search Provider extension using GNOME Extensions or GNOME Tweaks.
 
