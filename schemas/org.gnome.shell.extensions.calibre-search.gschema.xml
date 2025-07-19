@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.calibre-search" path="/org/gnome/shell/extensions/calibre-search/">
+    <key name="calibre-base-url" type="s">
+      <default>''</default>
+      <summary>Calibre server base URL</summary>
+      <description>The base URL for the Calibre server.</description>
+    </key>
+    <key name="calibre-library-id" type="s">
+      <default>''</default>
+      <summary>Calibre library ID</summary>
+      <description>The library ID to use for Calibre queries.</description>
+    </key>
+    <key name="username" type="s">
+      <default>''</default>
+      <summary>Calibre username</summary>
+      <description>The username for Calibre server authentication.</description>
+    </key>
+    <key name="password" type="s">
+      <default>''</default>
+      <summary>Calibre password</summary>
+      <description>The password for Calibre server authentication.</description>
+    </key>
+  </schema>
+</schemalist>
