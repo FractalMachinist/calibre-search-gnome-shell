@@ -19,7 +19,7 @@ It is a work in progress and requires manual configuration.
 
 3. Enable the Calibre Search Provider extension using GNOME Extensions or GNOME Tweaks.
 
-> **Note:** On Wayland sessions (default in GNOME 45+), shell restarts via <kbd>Alt</kbd>+<kbd>F2</kbd> are unavailable. Always log out and back in after installing or updating extensions.
+> **Note:** On Wayland sessions, shell restarts via <kbd>Alt</kbd>+<kbd>F2</kbd> are unavailable. Always log out and back in after installing or updating extensions.
 
 ### Potential Issue
 During development, I encountered issues where the preferences configuration worked fine, but the search results failed. I fixed this by:
